@@ -6,8 +6,8 @@ Open Source for digital audio mixing consoles and related devices
 
 - [OpenMixerControl](https://github.com/OpenMixerProject/OpenMixerControl) - Software to control a digital audio mixer
 - [OpenX32](https://github.com/OpenMixerProject/OpenX32) - Linux and Custom Firmware for the Behringer X32 Audio-Mixing-Console
-- [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 - [OpenWING](https://github.com/OpenMixerProject/OpenWING) - Linux and Custom Firmware for the Behringer WING Audio-Mixing-Console
+- [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 
 # Related Projects
 
