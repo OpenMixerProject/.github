@@ -1,6 +1,6 @@
 # OpenMixerProject
 
-Open Source for digital audio mixing consoles and related devices
+Open Source on digital audio mixing consoles and related devices
 
 # Main Projects
 
