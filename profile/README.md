@@ -10,6 +10,11 @@ Open Source on digital audio mixing consoles and related devices
 - [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 - [Small-OSC](https://github.com/OpenMixerProject/Small-OSC) - Fork of TinyOSC
 
+# Videos
+
+- Chris has nice [Videos about OpenX32 and his other Projects](https://www.youtube.com/@pcdimmer/videos)
+- Alex has a [OpenX32 Playlist](https://www.youtube.com/playlist?list=PLAHr4z-PREgdELUFOgvRtr9L1nDy0U7H5)
+
 # Related Projects
 
 - [AES50](https://github.com/YetAnotherElectronicsChannel/AES50) - An implementation of the AES50 protocol in vanilla VHDL
