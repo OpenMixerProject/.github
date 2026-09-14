@@ -19,6 +19,7 @@ Open Source on digital audio mixing consoles and related devices
 
 - [AES50](https://github.com/YetAnotherElectronicsChannel/AES50) - An implementation of the AES50 protocol in vanilla VHDL
 - [AES67](https://github.com/malarisch/AES67) - A full AES67 Audio-over-IP implementation on a single FPGA
+- [X32REAPER](https://gitlab.com/t-5/x32reaper) - X32REAPER turns a Behringer X32 into a deeply integrated hardware control surface for REAPER
 - [x86 BIOS for AMD Elan SC300 for the Behringer DDX3216](https://github.com/xn--nding-jua/DDX3216) - Booting DOS on the DDX3216
 
 # Get in Touch
