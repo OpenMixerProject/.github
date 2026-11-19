@@ -25,3 +25,9 @@ Open Source on digital audio mixing consoles and related devices
 # Get in Touch
 
 Get in touch with us in our [Discourse Community](https://discourse.openmixerproject.de)
+
+# Sponsors
+
+[Analog Devices](https://www.analog.com) sponsored us a licence for CrossCore Embedded Studio - many thanks!
+
+<img width="200" alt="grafik" src="https://github.com/user-attachments/assets/5e1ba20c-b4e0-454a-b10e-205d58897fa8" />
