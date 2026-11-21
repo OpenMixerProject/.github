@@ -12,7 +12,8 @@ Open Source on digital audio mixing consoles and related devices
 ## Libraries / Software
 
 - [OpenMixerControl](https://github.com/OpenMixerProject/OpenMixerControl) - Software to run on a digital Audio-Mixing-Console
-- [OpenAudioDSP](https://github.com/OpenMixerProject/OpenAudioDSP) - Modular Audio DSP for Digital Audio Mixing Consoles (Behringer X32, Wing, ...) and related devices
+- [OpenAudioDSP](https://github.com/OpenMixerProject/OpenAudioDSP) - Modular Audio DSP for the OpenMixerProject
+- [OpenAudioFPGA](https://github.com/OpenMixerProject/OpenAudioFPGA) - Modular FPGA for the OpenMixerProject
 - [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 - [Small-OSC](https://github.com/OpenMixerProject/Small-OSC) - Fork of TinyOSC
 
