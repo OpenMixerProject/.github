@@ -9,6 +9,7 @@ Open Source on digital audio mixing consoles and related devices
 - [OpenWING](https://github.com/OpenMixerProject/OpenWING) - Linux and Custom Firmware for the Behringer WING Audio-Mixing-Console
 - [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 - [Small-OSC](https://github.com/OpenMixerProject/Small-OSC) - Fork of TinyOSC
+- [OpenAudioDSP](https://github.com/OpenMixerProject/OpenAudioDSP) - Modular Audio DSP for Digital Audio Mixing Consoles (Behringer X32, Wing, ...) and related devices
 
 # Videos
 
