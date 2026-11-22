@@ -17,6 +17,10 @@ Open Source on digital audio mixing consoles and related devices
 - [StageConnect](https://github.com/OpenMixerProject/StageConnect) - Arduino-Library to create a StageConnect device
 - [Small-OSC](https://github.com/OpenMixerProject/Small-OSC) - Fork of TinyOSC
 
+## Central Bug Reporting and Issue Tracking
+
+Visit our [Ticketsystem](https://github.com/OpenMixerProject/Ticketsystem/issues)
+
 # Videos
 
 - Chris has nice [Videos about OpenX32 and his other Projects](https://www.youtube.com/@pcdimmer/videos)
